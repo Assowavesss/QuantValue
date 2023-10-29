@@ -4,7 +4,7 @@
 Language:        Cpp
 AlignOperands:   true
 AlignTrailingComments: true
-  #AllowAllParametersOfDeclarationOnNextLine: true
+AllowAllParametersOfDeclarationOnNextLine: true
 AllowShortBlocksOnASingleLine: false
 AllowShortCaseLabelsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: All

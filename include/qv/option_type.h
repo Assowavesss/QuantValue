@@ -1,13 +1,11 @@
 #ifndef QV_OPTION_TYPE_H
 #define QV_OPTION_TYPE_H
 
-namespace qv
+namespace qv {
+class option_type
 {
-  class option_type
-  {
-    Call,
-    Put
-  };
+  Call, Put
+};
 
 } // namespace qv
 
